@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dev-abhishekv
+- 👋 Hi, I’m Abhishek (@dev-abhishekv)
 - 👀 I’m interested in creating facinating web application, creating and researching Web3 projects.
 - 🌱 I’m currently learning different stuffs
   - Fullstack MERN development
